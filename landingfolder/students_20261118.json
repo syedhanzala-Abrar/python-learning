@@ -1,0 +1,26 @@
+[
+  {
+    "idno": 1002,
+    "name": "Kiran",
+    "age": 22,
+    "course": "B.Tech",
+    "fees": 36000,
+    "joindate": "2026-11-05"
+  },
+  {
+    "idno": 1003,
+    "name": "Rahul",
+    "age": 21,
+    "course": "BCA",
+    "fees": 35000,
+    "joindate": "2026-11-06"
+  },
+  {
+    "idno": 1004,
+    "name": "Priya",
+    "age": 24,
+    "course": "MBA",
+    "fees": 45000,
+    "joindate": "2026-11-07"
+  }
+]

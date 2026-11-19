@@ -1,0 +1,18 @@
+[
+  {
+    "idno": 1005,
+    "name": "Aman",
+    "age": 22,
+    "course": "B.Tech",
+    "fees": 40000,
+    "joindate": "2026-11-10"
+  },
+  {
+    "idno": 1006,
+    "name": "Sara",
+    "age": 23,
+    "course": "BCA",
+    "fees": 38000,
+    "joindate": "2026-11-11"
+  }
+]
