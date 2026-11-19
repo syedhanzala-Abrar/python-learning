@@ -233,7 +233,7 @@ try:
 
     print("\nData successfully synchronized!")
 
-    result = pd.read_sql(
+        result = pd.read_sql(
         "SELECT * FROM students ORDER BY idno",
         engine
     )
